@@ -25,6 +25,6 @@ Font family :
 
 
 programing language :
-HTML CSS JS - Front End
-PHP - Back End
-XAMPP - Apache/MySQL
+HTML CSS JS 
+
+<!-- HTML is not a programing language I KNOW!!! !HTML=PROGRAMING LANGUAGE (JOKE :D) -->
